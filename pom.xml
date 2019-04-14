@@ -38,8 +38,8 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
- <!--nkkkn-->(komentarz ctrl +\)
-
+ <!--&lt;!&ndash;nkkkn&ndash;&gt;(komentarz ctrl +)-->
+<!--by komitować trzeba kliknac ctrl + l-->
 
 
 
