@@ -20,7 +20,7 @@ public class TreeApp {
             System.out.println(child.getValue());
         }
 */
-        Node root = new Node("A");
+       Node root = new Node("A");
         Node childB = new Node("B");
         Node childE = new Node("E");
         childB.addChild(childE);
@@ -39,6 +39,6 @@ public class TreeApp {
         tree.setRoot(root);
 
     }
-
+//Alt + 9 pokazuje ostatnie zakomunitowane w gicie pliki
 
 }
